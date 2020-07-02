@@ -30,7 +30,7 @@
                     </li>
                     <li>Uy t&iacute;n trong giao d&#7883;ch - Website &#273;&atilde; &#273;&#432;&#7907;c &#273;&#259;ng k&yacute; v&#7899;i B&#7897; C&ocirc;ng Th&#432;&#417;ng trong ho&#7841;t &#273;&#7897;ng Th&#432;&#417;ng m&#7841;i &#273;i&#7879;n t&#7917;.</li>
                   </ul>
-                  <h3>Th&ocirc;ng tin chung v&#7873; C&ocirc;ng ty</h3>
+                  <h3>Th&ocirc;ng tin chung v&#7873; C&#7917;a H&agrave;ng </h3>
                   <p><strong>C&#7916;A H&Agrave;NG &#272;&#7890; CH&#416;I TR&#7866; EM H&#7842;I LINH </strong></p>
                   <p>&#272;&#7883;a ch&#7881; tr&#7909; s&#7903;: &#273;&#432;&#7901;ng t&acirc;y s&#417;n, Qu&#7853;n G&ograve; V&#7845;p, TP.H&#7891; Ch&iacute; Minh </p>
                   <p>&#272;i&#7879;n tho&#7841;i: 096 127 0500</p>
