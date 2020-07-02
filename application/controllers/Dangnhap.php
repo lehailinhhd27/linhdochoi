@@ -117,8 +117,8 @@ class Dangnhap extends CI_Controller {
             $this->email->initialize($config);
             $this->email->from('Dunghagcs18594@fpt.edu.vn@gmail.com', 'Linh-Lee');
             $this->email->to($email);
-            $this->email->subject('Hệ thống Dũng Toys - Quà thành viên mới');
-            $this->email->message('Bạn đã trở thành thành viên mới của cửa hàng Dũng Toys, Cửa hàng tặng bạn 1 mã giảm giá giảm 100.000 đ : '.$tempcoupon.' , Mã này có giá trị tới ngày '.$tempdatelimit.'
+            $this->email->subject('Hệ thống Linh Lee - Quà thành viên mới');
+            $this->email->message('Bạn đã trở thành thành viên mới của cửa hàng Linh Lee, Cửa hàng tặng bạn 1 mã giảm giá giảm 100.000 đ : '.$tempcoupon.' , Mã này có giá trị tới ngày '.$tempdatelimit.'
                 Hãy sử dụng tài khoản để mua hàng để tích lũy nhận thêm nhiều ưu đãi !!!!');
             $this->email->send();
             $this->data['success']='Đăng ký thành công! Bạn đã nhận được 1 mã giảm giá cho thành viên mới, vui lòng kiểm tra email !!';

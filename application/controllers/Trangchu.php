@@ -15,7 +15,7 @@ class Trangchu extends CI_Controller {
     
 	public function index()
 	{
-        $this->data['title']='Tú Store - Cửa hàng đồ chơi chính hãng';
+        $this->data['title']='Linh Lee - Cửa hàng đồ chơi chính hãng';
         $this->data['view']='index';
 		$this->load->view('frontend/layout',$this->data);
 	}

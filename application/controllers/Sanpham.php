@@ -93,7 +93,7 @@ class Sanpham extends CI_Controller {
     public function detail($link){   
         $row = $this->Mproduct->product_detail($link);
         $this->data['row']=$row;
-        $this->data['title']='Tú Store - '.$row['name'];  
+        $this->data['title']='Linh Lee - '.$row['name'];  
         $this->data['view']='detail';
         $this->load->view('frontend/layout',$this->data);
     }

@@ -21,7 +21,7 @@ class Tintuc extends CI_Controller {
 		$total=$this->Mcontent->content_count();
 		$this->data['strphantrang']=$this->phantrang->PagePer($total, $current, $limit, $url='tin-tuc');
         $this->data['list']=$this->Mcontent->content_list_home($limit,$first);
-        $this->data['title']='Tú Store - Tin tức';  
+        $this->data['title']='Linh Lee - Tin tức';  
 		$this->data['view']='index';
 		$this->load->view('frontend/layout',$this->data);
 	}
