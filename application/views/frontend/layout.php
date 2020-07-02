@@ -12,7 +12,7 @@
             if(isset($title))
                 echo $title;
             else
-                echo "Tú Store - Đồ chơi trẻ con chính hãng";
+                echo "Linh Lee - Đồ chơi trẻ con chính hãng";
         ?>
     </title>
     <link rel="icon" type="image/x-icon" href="public/images/cart2.png">
